@@ -22,6 +22,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MongoDb, GraphQL and React
 - 👯 I’m looking to collaborate on excisting React and Node projects
 
-<h1>
-  <img src="https://media4.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b7611bcace68807550066721c02118138d9d98f60881f&rid=giphy.gif&ct=s"/>
-</h1>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/fankabacheva/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<!--   <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> -->
+</div>
