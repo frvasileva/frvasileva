@@ -29,8 +29,8 @@ Here are some ideas to get you started:
   "country": "Bulgaria",
   "language": {
     "speaking": ["Bulgarian", "English"],
-    "programming": ["JavaScript", "TypeScript", "C#", "MondoDb", "ASP.NET", ".NET Core"],
-    "experiencedIn":["SEO","C#", "ASP.NET", "MSSQL", "MVC"]
+    "currentlyUsing": ["JavaScript", "TypeScript", "C#", "MondoDb"],
+    "experiencedIn":["SEO","Drupal",, "C#", "MSSQL", "MVC", "ASP.NET", ".NET Core"]
   },
   "hobbies" : ["Kids", "Gardening", "Nature", "Cooking"],
 }
