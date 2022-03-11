@@ -22,6 +22,21 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MongoDb, GraphQL and React
 - 👯 I’m looking to collaborate on excisting React and Node projects
 
+```json
+{
+  "name": "Fanka Bacheva",
+  "age": "33",
+  "country": "Bulgaria",
+  "language": {
+    "speaking": ["Bulgarian", "English"],
+    "programming": ["JavaScript", "TypeScript", "C#", "MondoDb", "ASP.NET", ".NET Core"],
+    "experiencedIn":["SEO","C#", "ASP.NET", "MSSQL", "MVC"]
+  },
+  "hobbies" : ["Kids", "Gardening", "Nature", "Cooking"],
+}
+```
+
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/fankabacheva/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
