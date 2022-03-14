@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 -->
 
-Here are some ideas to get you started:
+Hello, world!
 
-- 🌱 I’m currently learning MongoDb, GraphQL and React
-- 👯 I’m looking to collaborate on excisting React and Node projects
+-> 🌱 I’m currently learning MongoDb, GraphQL and React
+-> 👯 I’m looking to collaborate on excisting React and Node projects
 
 ```json
 {
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 }
 ```
 
-
+You can find me on:
 <div id="badges">
   <a href="https://www.linkedin.com/in/fankabacheva/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
