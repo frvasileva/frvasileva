@@ -29,10 +29,10 @@ Hello, world!
   "country": "Bulgaria",
   "language": {
     "speaking": ["Bulgarian", "English"],
-    "currentlyUsing": ["JavaScript", "TypeScript", "C#", "MondoDb"],
+    "currentlyUsing": ["React", "JavaScript", "TypeScript", "C#", "MondoDb", "GraphQL"],
     "experiencedIn":["SEO","Drupal",, "C#", "MSSQL", "MVC", "ASP.NET", ".NET Core"]
   },
-  "hobbies" : ["Kids", "Gardening", "Nature", "Cooking"],
+  "hobbies" : ["Gardening", "Nature", "Cooking"],
 }
 ```
 
