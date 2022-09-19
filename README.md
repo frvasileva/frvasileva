@@ -30,7 +30,7 @@ Hello, world!
   "language": {
     "speaking": ["Bulgarian", "English"],
     "currentlyUsing": ["React", "JavaScript", "TypeScript", "C#", "MondoDb", "GraphQL"],
-    "experiencedIn":["SEO","Drupal",, "C#", "MSSQL", "MVC", "ASP.NET", ".NET Core"]
+    "experiencedIn":["MVC", "ASP.NET", ".NET Core", "SEO","Drupal",, "C#", "MSSQL" ]
   },
   "hobbies" : ["Gardening", "Nature", "Cooking"],
 }
